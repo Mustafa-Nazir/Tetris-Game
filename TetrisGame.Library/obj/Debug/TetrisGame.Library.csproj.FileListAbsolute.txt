@@ -1,0 +1,6 @@
+C:\Users\ADMİN\Desktop\TetrisGame\TetrisGame.Library\bin\Debug\TetrisGame.Library.dll
+C:\Users\ADMİN\Desktop\TetrisGame\TetrisGame.Library\bin\Debug\TetrisGame.Library.pdb
+C:\Users\ADMİN\Desktop\TetrisGame\TetrisGame.Library\obj\Debug\TetrisGame.Library.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\TetrisGame\TetrisGame.Library\obj\Debug\TetrisGame.Library.dll
+C:\Users\ADMİN\Desktop\TetrisGame\TetrisGame.Library\obj\Debug\TetrisGame.Library.pdb
+C:\Users\ADMİN\Desktop\TetrisGame\TetrisGame.Library\obj\Debug\TetrisGame.Library.csprojAssemblyReference.cache
